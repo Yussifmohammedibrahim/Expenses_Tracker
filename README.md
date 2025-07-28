@@ -14,20 +14,5 @@ A simple Python-based console application that helps users **track**, **summariz
 - ✏️ Edit and delete expenses by ID
 - 🔐 Validations for date, amount, and category
 
----
 
-## 📌 Technologies Used
-
-- **Python 3.x**
-- File handling (for persistence)
-- Simple data structures (`dict`, `list`)
-- Console-based menus (no GUI required)
-
----
-
-## 📦 Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/expenses-tracker.git
    
