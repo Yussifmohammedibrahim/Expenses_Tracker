@@ -1,0 +1,2 @@
+30.0,Shopping,going for shopping
+50.0,Transport,travelling to kumasi
